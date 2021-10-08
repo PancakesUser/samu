@@ -4,6 +4,8 @@ window.onload = function() {
         $('pre-loader').css('visibility', 'hidden');
         $('body').css('visibility', 'visible')
         $('body').css('overflow', 'visible');
+
+  
     });
 }
 
