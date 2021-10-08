@@ -110,6 +110,11 @@ body{
     text-align: center;
 }
 
+.audi{
+   width: 0px;
+    
+}
+
 .bg_content h1{
     color: white;
 }
