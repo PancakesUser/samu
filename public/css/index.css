@@ -218,9 +218,7 @@ body{
         width: 100%;
         position: absolute;
     }
-    .bg_content{
-        display: flex;
-    }
+    
 
     .pre-loader{
         top: 50%;
